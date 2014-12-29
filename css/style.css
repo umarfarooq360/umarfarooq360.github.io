@@ -1,6 +1,6 @@
 /*
 ====================================================
-*   Intima Layout Stylesheet
+*   Omar Layout Stylesheet
 ====================================================
 
    TOC:
@@ -10,8 +10,6 @@
    4. About Section
    5. Resume Section
    6. Portfolio Section
-   7. Call To Action Section
-   8. Testimonials Section
    9. Contact Section
    10. Footer
 
@@ -356,7 +354,7 @@ ul#nav li a:hover {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: url(../images/2.jpg) no-repeat fixed center center / cover;        
+  background:  no-repeat fixed center center / cover;        
   overflow: hidden;
 }
 
@@ -1339,24 +1337,6 @@ ul#nav li a:hover {
    border: none;
 }
 
-
-/* google map */
-.map-container {
-  margin-top: 30px;
-}
-
-#map{
-  background: url(../images/map-marker.png) no-repeat center center;
-  display: block;
-  width: 100%;
-  height: 450px;
-  margin: 0 auto;
-  box-shadow: 0 0 0 8px rgba(0,0,0, .2)
-}
-
-#map img {
-  max-width:inherit !important;
-}
 
 
 
