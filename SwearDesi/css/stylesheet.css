@@ -1,0 +1,111 @@
+body, html{
+    height:100%;
+    margin:0;
+    padding:0;
+
+}
+
+#container{
+      min-height:100%;
+}
+
+div{
+	text-align: center;
+	background-color: #226765;
+	
+}
+
+.blankbar{
+	background-color: #0D4D4B; 
+}
+
+.maintitle{
+	
+	font-style: bold;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	
+}
+.maintitle h1{
+	font-weight: 400;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 60px;
+}
+
+.maintitle h2{
+	font-weight: 100;
+	font-size: 20px;
+	color: #A0A090;
+	font-family: 'Lobster', cursive;
+}
+
+/*==============================================================================
+// _text_updater.scss
+//
+// Box that generates different copy upon clicking a button.
+//==============================================================================*/
+
+.text-updater {
+  background-color: #679B99;
+  display: inline-block;
+  max-width: 40rem;
+  width: 100%;
+  border: 3px solid #003432;
+  border-radius: 1rem;
+  overflow: hidden;
+	margin-bottom: 1rem;
+	min-height: 6rem;
+
+  }
+.text-updater__text {
+  background-color: #679B99;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 1.5rem 1rem 1rem 1rem;
+  width: 100%;
+  float: left;
+  height: 100%;
+  font-family:  'Gloria Hallelujah', cursive;
+  
+}
+
+.text-updater__button {
+  background-color: #003432;
+  font-size: 1.25rem;
+  padding: 1rem 1rem 1rem 1rem;
+  border: 2px solid #679B99  ;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 0;
+  border-radius: 0.5rem;
+  width: 25%;
+  color: #E0E0E0;
+  height: 100%;
+  font-family: 'Gloria Hallelujah', cursive;
+  vertical-align: center;
+  
+}
+
+
+.text-updater__button:hover {
+  background-color: #1f502e;
+}
+
+.contribute{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif ;
+	font-size: 1.5rem;
+	margin-top: 1rem;
+	font-style: bold;
+	color: #e0e0e0;
+	letter-spacing: 0px;
+}
+
+.contribute a{
+	color: #220439 ;
+	font-style: bold; 
+	font-size: 1.6rem;
+	text-transform: uppercase;
+}
