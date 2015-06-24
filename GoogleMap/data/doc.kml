@@ -1,0 +1,2384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>VMP map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>table.csv</name>
+			<Placemark>
+				<name>AIM Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 8301 Hungary Spring Road<br>Shipping City: Henrico<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23228<br>Phone: (804) 756-3000<br>Website: http://prezi.com/vfngi-l3k0x1/hermitage-high-school-mentoring-program/<br>Person Accepting Volunteer Referrals: Carl Torrence<br>Person Accepting Volunteer ReferralEmail: cetorrence@henrico.k12.va.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>8301 Hungary Spring Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Henrico</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23228</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 756-3000</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://prezi.com/vfngi-l3k0x1/hermitage-high-school-mentoring-program/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Carl Torrence</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>cetorrence@henrico.k12.va.us</value>
+					</Data>
+				</ExtendedData>
+				<address>8301 Hungary Spring Road, Henrico, Virginia, 23228</address>
+			</Placemark>
+			<Placemark>
+				<name>AMP! Metro Richmond</name>
+				<description><![CDATA[Shipping Address Line 1: 7330 Staples Mills Rd #159<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23228<br>Phone: (804) 601-0639<br>Website: http://ampmetrorichmond.org/<br>Person Accepting Volunteer Referrals: Laura Leporati<br>Person Accepting Volunteer ReferralEmail: mentor@ampmetrorichmond.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>7330 Staples Mills Rd #159</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23228</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 601-0639</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://ampmetrorichmond.org/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Laura Leporati</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>mentor@ampmetrorichmond.org</value>
+					</Data>
+				</ExtendedData>
+				<address>7330 Staples Mills Rd #159, Richmond, Virginia, 23228</address>
+			</Placemark>
+			<Placemark>
+				<name>Armstrong Leadership Program</name>
+				<description><![CDATA[Shipping Address Line 1: 2209 East Grace Street<br>Shipping City: Richmond<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23223<br>Phone: (804) 783-7903<br>Website: www.richmondhillva.org<br>Person Accepting Volunteer Referrals: Yvette Rajput<br>Person Accepting Volunteer ReferralEmail: yrajput@richmondhillva.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2209 East Grace Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23223</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 783-7903</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.richmondhillva.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Yvette Rajput</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>yrajput@richmondhillva.org</value>
+					</Data>
+				</ExtendedData>
+				<address>2209 East Grace Street, Richmond, VA, 23223</address>
+			</Placemark>
+			<Placemark>
+				<name>Big Brothers Big Sisters of Greater Richmond and Tri-Cities</name>
+				<description><![CDATA[Shipping Address Line 1: 1707 Summit Ave, Ste. 200,<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23230<br>Phone: (804) 261-4940<br>Website: http://www.bigbrobigsis.com/<br>Person Accepting Volunteer Referrals: Lindsey Choroszucha<br>Person Accepting Volunteer ReferralEmail: lchoroszucha@bigbrobigsis.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1707 Summit Ave, Ste. 200,</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23230</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 261-4940</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bigbrobigsis.com/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Lindsey Choroszucha</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>lchoroszucha@bigbrobigsis.com</value>
+					</Data>
+				</ExtendedData>
+				<address>1707 Summit Ave, Ste. 200,, Richmond, Virginia, 23230</address>
+			</Placemark>
+			<Placemark>
+				<name>Big Brothers Big Sisters of the Central Blue Ridge</name>
+				<description><![CDATA[Shipping Address Line 1: 201 E. Main Street, Suite K<br>Shipping City: Charlottesville<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22902<br>Phone: (434) 244-0882<br>Website: www.bbbsocbr.org<br>Person Accepting Volunteer Referrals: Stephanie Bolton<br>Person Accepting Volunteer ReferralEmail: stephanie@blueridgebigs.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>201 E. Main Street, Suite K</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Charlottesville</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22902</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 244-0882</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bbbsocbr.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Stephanie Bolton</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>stephanie@blueridgebigs.org</value>
+					</Data>
+				</ExtendedData>
+				<address>201 E. Main Street, Suite K, Charlottesville, Virginia, 22902</address>
+			</Placemark>
+			<Placemark>
+				<name>Bonner Center for Civic Engagment Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 28 Westhampton Way 201<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23173<br>Phone: (804) 484-1600<br>Website: http://engage.richmond.edu/<br>Person Accepting Volunteer Referrals: Michael Rogers<br>Person Accepting Volunteer ReferralEmail: michael.rogers@richmond.edu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>28 Westhampton Way 201</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23173</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 484-1600</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://engage.richmond.edu/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Michael Rogers</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>michael.rogers@richmond.edu</value>
+					</Data>
+				</ExtendedData>
+				<address>28 Westhampton Way 201, Richmond, Virginia, 23173</address>
+			</Placemark>
+			<Placemark>
+				<name>Boys to Men Mentoring Network of Virginia, Inc</name>
+				<description><![CDATA[Shipping Address Line 1: 1107 West 42 St<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23225<br>Phone: (804) 274-8845<br>Website: http://www.boystomenricva.org<br>Person Accepting Volunteer Referrals: Dave Bolduc<br>Person Accepting Volunteer ReferralEmail: dbolduc@kcc.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1107 West 42 St</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23225</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 274-8845</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.boystomenricva.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Dave Bolduc</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>dbolduc@kcc.com</value>
+					</Data>
+				</ExtendedData>
+				<address>1107 West 42 St, Richmond, Virginia, 23225</address>
+			</Placemark>
+			<Placemark>
+				<name>Capital One Mentorships</name>
+				<description><![CDATA[Shipping Address Line 1: 15000 Capital One Drive<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23238<br>Phone: (804) 310-3049<br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>15000 Capital One Drive</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23238</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 310-3049</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>15000 Capital One Drive, Richmond, Virginia, 23238</address>
+			</Placemark>
+			<Placemark>
+				<name>CBM CARES</name>
+				<description><![CDATA[Shipping Address Line 1: <br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: <br>Phone: (804) 783-1975<br>Website: http://www.cbmcares.org/cbm-cares%c2%ae-richmond-va<br>Person Accepting Volunteer Referrals: Fred Wright<br>Person Accepting Volunteer ReferralEmail: fwright@cbmnational.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value></value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 783-1975</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.cbmcares.org/cbm-cares%c2%ae-richmond-va</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Fred Wright</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>fwright@cbmnational.org</value>
+					</Data>
+				</ExtendedData>
+				<address>, Richmond, Virginia, </address>
+			</Placemark>
+			<Placemark>
+				<name>Communities in Schools of Chesterfield</name>
+				<description><![CDATA[Shipping Address Line 1: 10107 Krause Road, Suite 202<br>Shipping City: Chesterfield<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23832<br>Phone: (804) 717-9305<br>Website: http://www.cisofchesterfield.org/contact-us.aspx<br>Person Accepting Volunteer Referrals: Jay Swedenborg<br>Person Accepting Volunteer ReferralEmail: jay_swedenborg@ccpsnet.net]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>10107 Krause Road, Suite 202</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Chesterfield</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23832</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 717-9305</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.cisofchesterfield.org/contact-us.aspx</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jay Swedenborg</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jay_swedenborg@ccpsnet.net</value>
+					</Data>
+				</ExtendedData>
+				<address>10107 Krause Road, Suite 202, Chesterfield, Virginia, 23832</address>
+			</Placemark>
+			<Placemark>
+				<name>Communities In Schools of Richmond</name>
+				<description><![CDATA[Shipping Address Line 1: 2922 W. Marshall Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23230<br>Phone: (804) 358-1247<br>Website: www.cisofrichmond.org<br>Person Accepting Volunteer Referrals: Devan Colley<br>Person Accepting Volunteer ReferralEmail: dcolley@cisofrichmond.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2922 W. Marshall Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23230</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 358-1247</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cisofrichmond.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Devan Colley</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>dcolley@cisofrichmond.org</value>
+					</Data>
+				</ExtendedData>
+				<address>2922 W. Marshall Street, Richmond, Virginia, 23230</address>
+			</Placemark>
+			<Placemark>
+				<name>Computers4Kids</name>
+				<description><![CDATA[Shipping Address Line 1: 945 2nd Street SE<br>Shipping City: Charlottesville<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22902<br>Phone: (434) 817-1121<br>Website: www.computers4kids.net<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>945 2nd Street SE</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Charlottesville</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22902</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 817-1121</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.computers4kids.net</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>945 2nd Street SE, Charlottesville, Virginia, 22902</address>
+			</Placemark>
+			<Placemark>
+				<name>Divas With Promise</name>
+				<description><![CDATA[Shipping Address Line 1: 104 S. Main St<br>Shipping City: Bowling Green<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 22427<br>Phone: (804) 916-9619<br>Website: http://www.carolinespromise.com/divas-with-promise.html<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>104 S. Main St</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Bowling Green</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22427</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 916-9619</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.carolinespromise.com/divas-with-promise.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>104 S. Main St, Bowling Green, VA, 22427</address>
+			</Placemark>
+			<Placemark>
+				<name>DJJ Re-Entry Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 600 East Main Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23219<br>Phone: (804) 588-3896<br>Website: www.djj.virginia.gov<br>Person Accepting Volunteer Referrals: Ashley Williams<br>Person Accepting Volunteer ReferralEmail: ashley.williams@djj.virginia.gov]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>600 East Main Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23219</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 588-3896</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.djj.virginia.gov</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Ashley Williams</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>ashley.williams@djj.virginia.gov</value>
+					</Data>
+				</ExtendedData>
+				<address>600 East Main Street, Richmond, Virginia, 23219</address>
+			</Placemark>
+			<Placemark>
+				<name>EastEnd Ups</name>
+				<description><![CDATA[Shipping Address Line 1: <br>Shipping City: Henrico<br>Shipping State/Province: <br>Shipping Zip/Postal Code: <br>Phone: <br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value></value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Henrico</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value></value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>, Henrico, , </address>
+			</Placemark>
+			<Placemark>
+				<name>Emerging Young Leaders--Delta Omega Chapter</name>
+				<description><![CDATA[Shipping Address Line 1: 219 New Street<br>Shipping City: Petersburg<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23803<br>Phone: (804) 274-0810<br>Website: aka-deltaomega.org<br>Person Accepting Volunteer Referrals: Johna Vazquez<br>Person Accepting Volunteer ReferralEmail: jvazquez@petersburg.k12.va.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>219 New Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Petersburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23803</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 274-0810</value>
+					</Data>
+					<Data name='Website'>
+						<value>aka-deltaomega.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Johna Vazquez</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jvazquez@petersburg.k12.va.us</value>
+					</Data>
+				</ExtendedData>
+				<address>219 New Street, Petersburg, VA, 23803</address>
+			</Placemark>
+			<Placemark>
+				<name>FISH Mentor/Tutor Program</name>
+				<description><![CDATA[Shipping Address Line 1: 674 Hilllsdale Drive<br>Shipping City: Charlottesville<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 22901<br>Phone: (434) 917-5245<br>Website: www.jabacares.org<br>Person Accepting Volunteer Referrals: Marian Quigley<br>Person Accepting Volunteer ReferralEmail: fish@jabacares.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>674 Hilllsdale Drive</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Charlottesville</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22901</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 917-5245</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.jabacares.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Marian Quigley</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>fish@jabacares.org</value>
+					</Data>
+				</ExtendedData>
+				<address>674 Hilllsdale Drive, Charlottesville, VA, 22901</address>
+			</Placemark>
+			<Placemark>
+				<name>Gap4Lyfe</name>
+				<description><![CDATA[Shipping Address Line 1: 2301 Cedar Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23223<br>Phone: (804) 306-9905<br>Website: www.gap4lyfe.org<br>Person Accepting Volunteer Referrals: Kevin Hall<br>Person Accepting Volunteer ReferralEmail: gap4lyfe@gmail.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2301 Cedar Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23223</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 306-9905</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.gap4lyfe.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Kevin Hall</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>gap4lyfe@gmail.com</value>
+					</Data>
+				</ExtendedData>
+				<address>2301 Cedar Street, Richmond, Virginia, 23223</address>
+			</Placemark>
+			<Placemark>
+				<name>Henrico Heroes</name>
+				<description><![CDATA[Shipping Address Line 1: 2204 Mountain Road<br>Shipping City: Henrico<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23060<br>Phone: (804) 261-5070<br>Website: www.henrico.k12.va.us<br>Person Accepting Volunteer Referrals: Kim Dupre<br>Person Accepting Volunteer ReferralEmail: kmdupre@henrico.k12.va.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2204 Mountain Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Henrico</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23060</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 261-5070</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.henrico.k12.va.us</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Kim Dupre</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>kmdupre@henrico.k12.va.us</value>
+					</Data>
+				</ExtendedData>
+				<address>2204 Mountain Road, Henrico, Virginia, 23060</address>
+			</Placemark>
+			<Placemark>
+				<name>Higher Achievement Richmond</name>
+				<description><![CDATA[Shipping Address Line 1: 1419 W. Main St.<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23220<br>Phone: (804) 643-7753<br>Website: http://www.higherachievement.org/our-communities/richmond<br>Person Accepting Volunteer Referrals: Melissa Derricott<br>Person Accepting Volunteer ReferralEmail: mjennings@higherachievement.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1419 W. Main St.</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23220</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 643-7753</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.higherachievement.org/our-communities/richmond</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Melissa Derricott</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>mjennings@higherachievement.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1419 W. Main St., Richmond, Virginia, 23220</address>
+			</Placemark>
+			<Placemark>
+				<name>Intercept Youth Services</name>
+				<description><![CDATA[Shipping Address Line 1: 5511 Staples Mill Rd., 102<br>Shipping City: Richmond<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23112<br>Phone: (804) 612-3349<br>Website: www.interceptyouth.com<br>Person Accepting Volunteer Referrals: Joshua Marks<br>Person Accepting Volunteer ReferralEmail: jmarks@interceptyouth.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>5511 Staples Mill Rd., 102</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23112</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 612-3349</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.interceptyouth.com</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Joshua Marks</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jmarks@interceptyouth.com</value>
+					</Data>
+				</ExtendedData>
+				<address>5511 Staples Mill Rd., 102, Richmond, VA, 23112</address>
+			</Placemark>
+			<Placemark>
+				<name>Kids Achieving Progress</name>
+				<description><![CDATA[Shipping Address Line 1: 201 James Avenue<br>Shipping City: Colonial Heights<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23834<br>Phone: (804) 520-9286<br>Website: http://www.colonial-heights.com/YouthKAP.htm<br>Person Accepting Volunteer Referrals: Becca Lynch<br>Person Accepting Volunteer ReferralEmail: lynchb@colonial-heightsva.gov]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>201 James Avenue</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Colonial Heights</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23834</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 520-9286</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.colonial-heights.com/YouthKAP.htm</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Becca Lynch</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>lynchb@colonial-heightsva.gov</value>
+					</Data>
+				</ExtendedData>
+				<address>201 James Avenue, Colonial Heights, Virginia, 23834</address>
+			</Placemark>
+			<Placemark>
+				<name>Ladies of Distinction &amp; Distinguished Springers</name>
+				<description><![CDATA[Shipping Address Line 1: <br>Shipping City: Henrico<br>Shipping State/Province: <br>Shipping Zip/Postal Code: <br>Phone: <br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value></value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Henrico</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value></value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>, Henrico, , </address>
+			</Placemark>
+			<Placemark>
+				<name>Madison House</name>
+				<description><![CDATA[Shipping Address Line 1: 170 Rugby Road<br>Shipping City: Charlottesville<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22903<br>Phone: (434) 977-7051<br>Website: http://scs.student.virginia.edu/~madison/index.html<br>Person Accepting Volunteer Referrals: Jennifer Walker<br>Person Accepting Volunteer ReferralEmail: jennifer@madisonhouse.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>170 Rugby Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Charlottesville</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22903</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 977-7051</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://scs.student.virginia.edu/~madison/index.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jennifer Walker</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jennifer@madisonhouse.org</value>
+					</Data>
+				</ExtendedData>
+				<address>170 Rugby Road, Charlottesville, Virginia, 22903</address>
+			</Placemark>
+			<Placemark>
+				<name>Men of Troy</name>
+				<description><![CDATA[Shipping Address Line 1: P.O. Box 9200<br>Shipping City: Virginia State University<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23806<br>Phone: (804) 524-5214<br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>P.O. Box 9200</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Virginia State University</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23806</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 524-5214</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>P.O. Box 9200, Virginia State University, Virginia, 23806</address>
+			</Placemark>
+			<Placemark>
+				<name>Outreach Involvement Center</name>
+				<description><![CDATA[Shipping Address Line 1: 3084 Hull Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23224<br>Phone: (804) 303-1496<br>Website: http://www.outreachinvolvementcenter.com/<br>Person Accepting Volunteer Referrals: Lisa Smith-Hicks<br>Person Accepting Volunteer ReferralEmail: glinolvecenter@yahoo.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>3084 Hull Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23224</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 303-1496</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.outreachinvolvementcenter.com/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Lisa Smith-Hicks</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>glinolvecenter@yahoo.com</value>
+					</Data>
+				</ExtendedData>
+				<address>3084 Hull Street, Richmond, Virginia, 23224</address>
+			</Placemark>
+			<Placemark>
+				<name>Partnership for the Future</name>
+				<description><![CDATA[Shipping Address Line 1: 4521 Highwoods Parkways<br>Shipping City: Glen Allen<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23060<br>Phone: (804) 967-2559<br>Website: www.partnershipforthefuture.org<br>Person Accepting Volunteer Referrals: Tiffany Thomas<br>Person Accepting Volunteer ReferralEmail: pff@partnershipforthefuture.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>4521 Highwoods Parkways</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Glen Allen</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23060</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 967-2559</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.partnershipforthefuture.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Tiffany Thomas</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>pff@partnershipforthefuture.org</value>
+					</Data>
+				</ExtendedData>
+				<address>4521 Highwoods Parkways, Glen Allen, VA, 23060</address>
+			</Placemark>
+			<Placemark>
+				<name>Pathways to Transformation</name>
+				<description><![CDATA[Shipping Address Line 1: 1200 W. Washington St<br>Shipping City: Petersburg<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23803<br>Phone: (804) 862-1104<br>Website: www.pathways-va.org<br>Person Accepting Volunteer Referrals: Jackie Owens<br>Person Accepting Volunteer ReferralEmail: jowens@pathways-va.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1200 W. Washington St</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Petersburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23803</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 862-1104</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pathways-va.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jackie Owens</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jowens@pathways-va.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1200 W. Washington St, Petersburg, VA, 23803</address>
+			</Placemark>
+			<Placemark>
+				<name>Peter Paul Development Center</name>
+				<description><![CDATA[Shipping Address Line 1: 1708 North 22nd Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23223<br>Phone: (804) 780-1195<br>Website: http://www.peterpauldevcenter.org/index.html<br>Person Accepting Volunteer Referrals: Rosemary Jones<br>Person Accepting Volunteer ReferralEmail: rjones@peterpauldevcenter.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1708 North 22nd Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23223</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 780-1195</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.peterpauldevcenter.org/index.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Rosemary Jones</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>rjones@peterpauldevcenter.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1708 North 22nd Street, Richmond, Virginia, 23223</address>
+			</Placemark>
+			<Placemark>
+				<name>Power of One</name>
+				<description><![CDATA[Shipping Address Line 1: <br>Shipping City: Henrico<br>Shipping State/Province: <br>Shipping Zip/Postal Code: <br>Phone: <br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value></value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Henrico</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value></value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>, Henrico, , </address>
+			</Placemark>
+			<Placemark>
+				<name>Powhatan County Schools K-6 Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 2320 Skaggs Rd<br>Shipping City: Powhatan<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23139<br>Phone: (804) 598-5700<br>Website: http://powhatan.k12.va.us/<br>Person Accepting Volunteer Referrals: Randy Watts<br>Person Accepting Volunteer ReferralEmail: randy.watts@powhatan.k12.va.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2320 Skaggs Rd</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Powhatan</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23139</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 598-5700</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://powhatan.k12.va.us/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Randy Watts</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>randy.watts@powhatan.k12.va.us</value>
+					</Data>
+				</ExtendedData>
+				<address>2320 Skaggs Rd, Powhatan, Virginia, 23139</address>
+			</Placemark>
+			<Placemark>
+				<name>Real Fathers, Real Men</name>
+				<description><![CDATA[Shipping Address Line 1: 2500 Chamberlayne Avenue<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23222<br>Phone: (888) 400-0198<br>Website: www.realfathersrealmen.org<br>Person Accepting Volunteer Referrals: Pamela Boyd<br>Person Accepting Volunteer ReferralEmail: realfathersrealmen@gmail.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2500 Chamberlayne Avenue</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23222</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(888) 400-0198</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.realfathersrealmen.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Pamela Boyd</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>realfathersrealmen@gmail.com</value>
+					</Data>
+				</ExtendedData>
+				<address>2500 Chamberlayne Avenue, Richmond, Virginia, 23222</address>
+			</Placemark>
+			<Placemark>
+				<name>Richmond Public Schools Office of Community Partnerships</name>
+				<description><![CDATA[Shipping Address Line 1: 301 North Ninth Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23219<br>Phone: (804) 819-4382<br>Website: http://newweb.richmond.k12.va.us/<br>Person Accepting Volunteer Referrals: Sandra Wheeler<br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>301 North Ninth Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23219</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 819-4382</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://newweb.richmond.k12.va.us/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Sandra Wheeler</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>301 North Ninth Street, Richmond, Virginia, 23219</address>
+			</Placemark>
+			<Placemark>
+				<name>SOHO: Space Of Her Own Richmond</name>
+				<description><![CDATA[Shipping Address Line 1: 1812 West Main Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23220<br>Phone: (804) 353-0094 x 252<br>Website: http://visarts.org/classes/outreach-programs/soho-space-of-her-own/<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1812 West Main Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23220</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 353-0094 x 252</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://visarts.org/classes/outreach-programs/soho-space-of-her-own/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>1812 West Main Street, Richmond, Virginia, 23220</address>
+			</Placemark>
+			<Placemark>
+				<name>Strive</name>
+				<description><![CDATA[Shipping Address Line 1: P.O. Box 71<br>Shipping City: Charlottesville<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 22902<br>Phone: (434) 970-2077<br>Website: www.charlottesvilleabundantlife.org<br>Person Accepting Volunteer Referrals: Dylan Rosenthal<br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>P.O. Box 71</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Charlottesville</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22902</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 970-2077</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.charlottesvilleabundantlife.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Dylan Rosenthal</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>P.O. Box 71, Charlottesville, VA, 22902</address>
+			</Placemark>
+			<Placemark>
+				<name>TEAM EXCEL Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 11357 Nuckols Rd, Suite 181<br>Shipping City: Glen Allen<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23059<br>Phone: (804) 677-3694<br>Website: http://www.exceltoexcellence.org/<br>Person Accepting Volunteer Referrals: KC Regis<br>Person Accepting Volunteer ReferralEmail: kc@availonline.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>11357 Nuckols Rd, Suite 181</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Glen Allen</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23059</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 677-3694</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.exceltoexcellence.org/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>KC Regis</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>kc@availonline.com</value>
+					</Data>
+				</ExtendedData>
+				<address>11357 Nuckols Rd, Suite 181, Glen Allen, Virginia, 23059</address>
+			</Placemark>
+			<Placemark>
+				<name>The Carver Promise</name>
+				<description><![CDATA[Shipping Address Line 1: 1110 W Leigh Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23223<br>Phone: (804) 780-4131<br>Website: http://www.cisofrichmond.org/special-initiatives/the-carver-promise/<br>Person Accepting Volunteer Referrals: Casey Rogers<br>Person Accepting Volunteer ReferralEmail: crogers@thecarverpromise.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1110 W Leigh Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23223</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 780-4131</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.cisofrichmond.org/special-initiatives/the-carver-promise/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Casey Rogers</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>crogers@thecarverpromise.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1110 W Leigh Street, Richmond, Virginia, 23223</address>
+			</Placemark>
+			<Placemark>
+				<name>The Micah Initiative</name>
+				<description><![CDATA[Shipping Address Line 1: 2209 E. Grace Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23223<br>Phone: (804) 783-7903 ext. 24<br>Website: www.micahrva.org<br>Person Accepting Volunteer Referrals: Qasarah Spencer<br>Person Accepting Volunteer ReferralEmail: micah@richmondhillva.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2209 E. Grace Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23223</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 783-7903 ext. 24</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.micahrva.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Qasarah Spencer</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>micah@richmondhillva.org</value>
+					</Data>
+				</ExtendedData>
+				<address>2209 E. Grace Street, Richmond, Virginia, 23223</address>
+			</Placemark>
+			<Placemark>
+				<name>Transforming Today's Youth</name>
+				<description><![CDATA[Shipping Address Line 1: 3207 Maryland Avenue<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23222<br>Phone: (804) 550-8300<br>Website: http://ttyouth.yolasite.com/<br>Person Accepting Volunteer Referrals: Mario Brandon<br>Person Accepting Volunteer ReferralEmail: mariioo1@msn.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>3207 Maryland Avenue</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23222</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 550-8300</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://ttyouth.yolasite.com/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Mario Brandon</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>mariioo1@msn.com</value>
+					</Data>
+				</ExtendedData>
+				<address>3207 Maryland Avenue, Richmond, Virginia, 23222</address>
+			</Placemark>
+			<Placemark>
+				<name>Under Our Wings</name>
+				<description><![CDATA[Shipping Address Line 1: 4701 Pouncey Tract Rd<br>Shipping City: Glen Allen<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23059<br>Phone: (804) 364-0837<br>Website: http://blogs.henrico.k12.va.us/shortpumpms/<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>4701 Pouncey Tract Rd</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Glen Allen</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23059</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 364-0837</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://blogs.henrico.k12.va.us/shortpumpms/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>4701 Pouncey Tract Rd, Glen Allen, Virginia, 23059</address>
+			</Placemark>
+			<Placemark>
+				<name>VCU AmeriCorps and America Reads</name>
+				<description><![CDATA[Shipping Address Line 1: 1103 West Marshall Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23284-3034<br>Phone: (804) 827-1907<br>Website: http://www.community.vcu.edu/solutions/americorps/<br>Person Accepting Volunteer Referrals: Jenny Callear<br>Person Accepting Volunteer ReferralEmail: vcuamericorpsrecruit@gmail.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1103 West Marshall Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23284-3034</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 827-1907</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.community.vcu.edu/solutions/americorps/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jenny Callear</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>vcuamericorpsrecruit@gmail.com</value>
+					</Data>
+				</ExtendedData>
+				<address>1103 West Marshall Street, Richmond, Virginia, 23284-3034</address>
+			</Placemark>
+			<Placemark>
+				<name>VCU Counselor Education</name>
+				<description><![CDATA[Shipping Address Line 1: 1015 W Main Street<br>Shipping City: Richmond<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23284-2020<br>Phone: (804) 827-2632<br>Website: http://www.soe.vcu.edu/academics/ce/index.html<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1015 W Main Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23284-2020</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 827-2632</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.soe.vcu.edu/academics/ce/index.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>1015 W Main Street, Richmond, VA, 23284-2020</address>
+			</Placemark>
+			<Placemark>
+				<name>VCU Health Sciences Academy Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: P.O. Box 842002<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23238<br>Phone: (804) 828-1761<br>Website: http://www.community.vcu.edu/teaching-and-learning/health-sciences-academy/<br>Person Accepting Volunteer Referrals: Seth Leibowitz<br>Person Accepting Volunteer ReferralEmail: slleibowitz@vcu.edu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>P.O. Box 842002</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23238</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 828-1761</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.community.vcu.edu/teaching-and-learning/health-sciences-academy/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Seth Leibowitz</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>slleibowitz@vcu.edu</value>
+					</Data>
+				</ExtendedData>
+				<address>P.O. Box 842002, Richmond, Virginia, 23238</address>
+			</Placemark>
+			<Placemark>
+				<name>Villa Pals Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 8000 Brook Road<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23227<br>Phone: (804) 553-3200<br>Website: www.neverstopbelieving.org<br>Person Accepting Volunteer Referrals: Ashley McHaney<br>Person Accepting Volunteer ReferralEmail: amchaney@sjvmail.net]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>8000 Brook Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23227</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 553-3200</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.neverstopbelieving.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Ashley McHaney</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>amchaney@sjvmail.net</value>
+					</Data>
+				</ExtendedData>
+				<address>8000 Brook Road, Richmond, Virginia, 23227</address>
+			</Placemark>
+			<Placemark>
+				<name>Virginia State University Algebra Project</name>
+				<description><![CDATA[Shipping Address Line 1: 1 Hayden St.<br>Shipping City: Petersburg<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23806<br>Phone: (804) 524-6709<br>Website: www.vsu.edu<br>Person Accepting Volunteer Referrals: Ann-Marie Turnage<br>Person Accepting Volunteer ReferralEmail: aturnage@vsu.edu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1 Hayden St.</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Petersburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23806</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 524-6709</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vsu.edu</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Ann-Marie Turnage</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>aturnage@vsu.edu</value>
+					</Data>
+				</ExtendedData>
+				<address>1 Hayden St., Petersburg, VA, 23806</address>
+			</Placemark>
+			<Placemark>
+				<name>Youth Life Foundation of Richmond</name>
+				<description><![CDATA[Shipping Address Line 1: P.O. Box 15202<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23227<br>Phone: (804) 228-1620<br>Website: http://ylfr.org/index.html<br>Person Accepting Volunteer Referrals: Katharine Hunt<br>Person Accepting Volunteer ReferralEmail: khunt@ylfr.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>P.O. Box 15202</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23227</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 228-1620</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://ylfr.org/index.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Katharine Hunt</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>khunt@ylfr.org</value>
+					</Data>
+				</ExtendedData>
+				<address>P.O. Box 15202, Richmond, Virginia, 23227</address>
+			</Placemark>
+			<Placemark>
+				<name>757 Protege</name>
+				<description><![CDATA[Shipping Address Line 1: 138 South 6th Street<br>Shipping City: Suffolk<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23434<br>Phone: (757) 514-4506<br>Website: http://www.suffolkva.us/parks/<br>Person Accepting Volunteer Referrals: Byron Lawrence<br>Person Accepting Volunteer ReferralEmail: bllawrence@suffolkva.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>138 South 6th Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Suffolk</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23434</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 514-4506</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.suffolkva.us/parks/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Byron Lawrence</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>bllawrence@suffolkva.us</value>
+					</Data>
+				</ExtendedData>
+				<address>138 South 6th Street, Suffolk, Virginia, 23434</address>
+			</Placemark>
+			<Placemark>
+				<name>Big Brothers Big Sisters of the Greater VA Peninsula</name>
+				<description><![CDATA[Shipping Address Line 1: 364 McLaws Circle, Suite 2<br>Shipping City: Williamsburg<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23185<br>Phone: (757) 369-6824<br>Website: http://www.bigs4kids.org/<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: jill.peyton@bbbsgw.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>364 McLaws Circle, Suite 2</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Williamsburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23185</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 369-6824</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bigs4kids.org/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jill.peyton@bbbsgw.org</value>
+					</Data>
+				</ExtendedData>
+				<address>364 McLaws Circle, Suite 2, Williamsburg, Virginia, 23185</address>
+			</Placemark>
+			<Placemark>
+				<name>Boys &amp; Girls Clubs of the Virginia Peninsula</name>
+				<description><![CDATA[Shipping Address Line 1: 11825 Rock Landing Drive<br>Shipping City: Newport News<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23606<br>Phone: (757) 223-7204<br>Website: www.bagclub.com<br>Person Accepting Volunteer Referrals: Rachel Radel<br>Person Accepting Volunteer ReferralEmail: rradel@bagclub.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>11825 Rock Landing Drive</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Newport News</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23606</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 223-7204</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bagclub.com</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Rachel Radel</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>rradel@bagclub.com</value>
+					</Data>
+				</ExtendedData>
+				<address>11825 Rock Landing Drive, Newport News, Virginia, 23606</address>
+			</Placemark>
+			<Placemark>
+				<name>Children of Absentee Parents Project (CAPP)</name>
+				<description><![CDATA[Shipping Address Line 1: 21 Marina Drive<br>Shipping City: Newport News<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23608<br>Phone: (757) 898-3795<br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: alphaanomeganetwork@gmail.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>21 Marina Drive</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Newport News</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23608</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 898-3795</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>alphaanomeganetwork@gmail.com</value>
+					</Data>
+				</ExtendedData>
+				<address>21 Marina Drive, Newport News, Virginia, 23608</address>
+			</Placemark>
+			<Placemark>
+				<name>Girls With Goals Alliance</name>
+				<description><![CDATA[Shipping Address Line 1: 3921-C Poplar Hill Rd<br>Shipping City: Chesapeake<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23321-5548<br>Phone: (757) 714-4892<br>Website: www.girlswithgoalsalliance.vpweb.com<br>Person Accepting Volunteer Referrals: Delores Perry<br>Person Accepting Volunteer ReferralEmail: girlswithgoals@yahoo.com.sg]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>3921-C Poplar Hill Rd</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Chesapeake</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23321-5548</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 714-4892</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.girlswithgoalsalliance.vpweb.com</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Delores Perry</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>girlswithgoals@yahoo.com.sg</value>
+					</Data>
+				</ExtendedData>
+				<address>3921-C Poplar Hill Rd, Chesapeake, VA, 23321-5548</address>
+			</Placemark>
+			<Placemark>
+				<name>Mentoring Children of Prisoners at Seton Youth Shelters</name>
+				<description><![CDATA[Shipping Address Line 1: 465 Kings Grant Road<br>Shipping City: Hampton<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23452<br>Phone: (757) 406-2084<br>Website: www.setonyouthshelters.org<br>Person Accepting Volunteer Referrals: Jessica Redding<br>Person Accepting Volunteer ReferralEmail: jredding@setonyouthshelters.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>465 Kings Grant Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Hampton</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23452</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 406-2084</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.setonyouthshelters.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jessica Redding</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jredding@setonyouthshelters.org</value>
+					</Data>
+				</ExtendedData>
+				<address>465 Kings Grant Road, Hampton, Virginia, 23452</address>
+			</Placemark>
+			<Placemark>
+				<name>Norfolk Public Schools' Dare to D.R.E.A.M. Mentoring Initiative.</name>
+				<description><![CDATA[Shipping Address Line 1: 800 East City Hall Ave, Ste.904<br>Shipping City: Norfolk<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23510<br>Phone: (757) 628-3931<br>Website: http://departments.nps.k12.va.us/mentoring/<br>Person Accepting Volunteer Referrals: Chantel Greenidge<br>Person Accepting Volunteer ReferralEmail: cgreenid@nps.k12.va.us]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>800 East City Hall Ave, Ste.904</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Norfolk</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23510</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 628-3931</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://departments.nps.k12.va.us/mentoring/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Chantel Greenidge</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>cgreenid@nps.k12.va.us</value>
+					</Data>
+				</ExtendedData>
+				<address>800 East City Hall Ave, Ste.904, Norfolk, Virginia, 23510</address>
+			</Placemark>
+			<Placemark>
+				<name>Team Up Mentoring</name>
+				<description><![CDATA[Shipping Address Line 1: 1805 Airline Blvd.<br>Shipping City: Portsmouth<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23707<br>Phone: (757) 397-2121<br>Website: http://form.jotform.us/form/20605877799168%22%20%5<br>Person Accepting Volunteer Referrals: Carol Freeman<br>Person Accepting Volunteer ReferralEmail: carol.freeman@theupcenter.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1805 Airline Blvd.</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Portsmouth</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23707</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 397-2121</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://form.jotform.us/form/20605877799168%22%20%5</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Carol Freeman</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>carol.freeman@theupcenter.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1805 Airline Blvd., Portsmouth, Virginia, 23707</address>
+			</Placemark>
+			<Placemark>
+				<name>Virginia Beach City Public  Schools Mentorships</name>
+				<description><![CDATA[Shipping Address Line 1: 2512 George Mason Drive<br>Shipping City: Virginia Beach<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23456-0038<br>Phone: (757) 263-1337<br>Website: http://www.vbschools.com/volunteers/mentors/brochure.asp<br>Person Accepting Volunteer Referrals: Laura Smart<br>Person Accepting Volunteer ReferralEmail: laura.smart@vbschools.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2512 George Mason Drive</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Virginia Beach</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23456-0038</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 263-1337</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.vbschools.com/volunteers/mentors/brochure.asp</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Laura Smart</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>laura.smart@vbschools.com</value>
+					</Data>
+				</ExtendedData>
+				<address>2512 George Mason Drive, Virginia Beach, Virginia, 23456-0038</address>
+			</Placemark>
+			<Placemark>
+				<name>Young Achievers Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 1997 Horseback Run<br>Shipping City: Chesapeake<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: <br>Phone: (757) 558-5382<br>Website: http://www.cpschools.com/Schools/OMS/<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1997 Horseback Run</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Chesapeake</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 558-5382</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.cpschools.com/Schools/OMS/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>1997 Horseback Run, Chesapeake, Virginia, </address>
+			</Placemark>
+			<Placemark>
+				<name>Casa Chirilagua Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 3846 King St.<br>Shipping City: Alexandria<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22302<br>Phone: (703) 933-3688<br>Website: www.casachirilagua.org<br>Person Accepting Volunteer Referrals: Adriana Gomez<br>Person Accepting Volunteer ReferralEmail: adriana@casachirilagua.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>3846 King St.</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Alexandria</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22302</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 933-3688</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.casachirilagua.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Adriana Gomez</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>adriana@casachirilagua.org</value>
+					</Data>
+				</ExtendedData>
+				<address>3846 King St., Alexandria, Virginia, 22302</address>
+			</Placemark>
+			<Placemark>
+				<name>Emerging Leaders Program</name>
+				<description><![CDATA[Shipping Address Line 1: 2801 Clarendon Blvd., Suite 216<br>Shipping City: Arlington<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22201<br>Phone: (703) 228-2560<br>Website: http://www.edu-futuro.org/<br>Person Accepting Volunteer Referrals: Jessie Ferguson<br>Person Accepting Volunteer ReferralEmail: jessie@edu-futuro.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2801 Clarendon Blvd., Suite 216</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Arlington</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22201</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 228-2560</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.edu-futuro.org/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Jessie Ferguson</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>jessie@edu-futuro.org</value>
+					</Data>
+				</ExtendedData>
+				<address>2801 Clarendon Blvd., Suite 216, Arlington, Virginia, 22201</address>
+			</Placemark>
+			<Placemark>
+				<name>MentorWorks</name>
+				<description><![CDATA[Shipping Address Line 1: 3877 Fairfax Ridge Road<br>Shipping City: Fairfax<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22030<br>Phone: (571) 423-4403<br>Website: http://www.fcps.edu/dss/ips/ssaw/mentorworks/<br>Person Accepting Volunteer Referrals: Shelley Prince<br>Person Accepting Volunteer ReferralEmail: shelley.prince@fcps.edu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>3877 Fairfax Ridge Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Fairfax</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22030</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(571) 423-4403</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.fcps.edu/dss/ips/ssaw/mentorworks/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Shelley Prince</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>shelley.prince@fcps.edu</value>
+					</Data>
+				</ExtendedData>
+				<address>3877 Fairfax Ridge Road, Fairfax, Virginia, 22030</address>
+			</Placemark>
+			<Placemark>
+				<name>Operation Heroes Connect</name>
+				<description><![CDATA[Shipping Address Line 1: 10 Granite Ct<br>Shipping City: Fredericksburg<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22406<br>Phone: (703) 786-4725<br>Website: www.operationheroesconnect.org<br>Person Accepting Volunteer Referrals: Alvina Aguilar<br>Person Accepting Volunteer ReferralEmail: alvina.operationheroesconnect@gmail.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>10 Granite Ct</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Fredericksburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22406</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 786-4725</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.operationheroesconnect.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Alvina Aguilar</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>alvina.operationheroesconnect@gmail.com</value>
+					</Data>
+				</ExtendedData>
+				<address>10 Granite Ct, Fredericksburg, Virginia, 22406</address>
+			</Placemark>
+			<Placemark>
+				<name>Pathways 2 Manhood</name>
+				<description><![CDATA[Shipping Address Line 1: 4646 Seminary Road<br>Shipping City: Alexandria<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 22304<br>Phone: (703) 461-4100<br>Website: <br>Person Accepting Volunteer Referrals: Michael Johnson<br>Person Accepting Volunteer ReferralEmail: michael.johnson@alexandriava.gov]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>4646 Seminary Road</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Alexandria</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22304</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 461-4100</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Michael Johnson</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>michael.johnson@alexandriava.gov</value>
+					</Data>
+				</ExtendedData>
+				<address>4646 Seminary Road, Alexandria, VA, 22304</address>
+			</Placemark>
+			<Placemark>
+				<name>Success-Oriented Students Mentoring Initiative</name>
+				<description><![CDATA[Shipping Address Line 1: 14045 Jefferson Davis Hwy<br>Shipping City: Woodbridge<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22191<br>Phone: (703) 490-7155<br>Website: <br>Person Accepting Volunteer Referrals: Robert Melvin<br>Person Accepting Volunteer ReferralEmail: rmelvin05@comcast.net]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>14045 Jefferson Davis Hwy</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Woodbridge</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22191</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 490-7155</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Robert Melvin</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>rmelvin05@comcast.net</value>
+					</Data>
+				</ExtendedData>
+				<address>14045 Jefferson Davis Hwy, Woodbridge, Virginia, 22191</address>
+			</Placemark>
+			<Placemark>
+				<name>The Untouchables Male Youth Club</name>
+				<description><![CDATA[Shipping Address Line 1: <br>Shipping City: Alexandria<br>Shipping State/Province: <br>Shipping Zip/Postal Code: <br>Phone: (703) 504-0444<br>Website: http://www.theuntouchables88.org/<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value></value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Alexandria</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value></value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 504-0444</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.theuntouchables88.org/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>, Alexandria, , </address>
+			</Placemark>
+			<Placemark>
+				<name>Wright to Read</name>
+				<description><![CDATA[Shipping Address Line 1: 414 N. Washington St, Suite 101<br>Shipping City: Alexandria<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 22314<br>Phone: (703) 299-9854<br>Website: http://www.wrighttoread.org/get-involved.html<br>Person Accepting Volunteer Referrals: Luisa Reyes<br>Person Accepting Volunteer ReferralEmail: lreyes@wrighttoread.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>414 N. Washington St, Suite 101</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Alexandria</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>22314</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(703) 299-9854</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.wrighttoread.org/get-involved.html</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Luisa Reyes</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>lreyes@wrighttoread.org</value>
+					</Data>
+				</ExtendedData>
+				<address>414 N. Washington St, Suite 101, Alexandria, Virginia, 22314</address>
+			</Placemark>
+			<Placemark>
+				<name>Stepping Up</name>
+				<description><![CDATA[Shipping Address Line 1: 111 Church St<br>Shipping City: Blacksburg<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 24060<br>Phone: (540) 552-5424<br>Website: www.blacksburgumc.org<br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>111 Church St</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Blacksburg</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>24060</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(540) 552-5424</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.blacksburgumc.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>111 Church St, Blacksburg, Virginia, 24060</address>
+			</Placemark>
+			<Placemark>
+				<name>New Life Family Ministries, Inc.</name>
+				<description><![CDATA[Shipping Address Line 1: 100 Carter Street<br>Shipping City: La Crosse<br>Shipping State/Province: VA<br>Shipping Zip/Postal Code: 23950<br>Phone: (434) 447-2055<br>Website: www.newlifefamilyministries.org<br>Person Accepting Volunteer Referrals: Terence Mitchell<br>Person Accepting Volunteer ReferralEmail: tmitchell@newlifefamilyministries.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>100 Carter Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>La Crosse</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>VA</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23950</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(434) 447-2055</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.newlifefamilyministries.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Terence Mitchell</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>tmitchell@newlifefamilyministries.org</value>
+					</Data>
+				</ExtendedData>
+				<address>100 Carter Street, La Crosse, VA, 23950</address>
+			</Placemark>
+			<Placemark>
+				<name>GoodGuides Mentoring Program</name>
+				<description><![CDATA[Shipping Address Line 1: 2502 Melrose Ave NW Suite B<br>Shipping City: Roanoke<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 24017<br>Phone: (540) 581-0620 ext. 228<br>Website: http://www.goodwillvalleys.com/work-and-training-services/youth-services/goodguides/<br>Person Accepting Volunteer Referrals: Nicole Ross<br>Person Accepting Volunteer ReferralEmail: nross@goodwillvalleys.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>2502 Melrose Ave NW Suite B</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Roanoke</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>24017</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(540) 581-0620 ext. 228</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodwillvalleys.com/work-and-training-services/youth-services/goodguides/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Nicole Ross</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>nross@goodwillvalleys.com</value>
+					</Data>
+				</ExtendedData>
+				<address>2502 Melrose Ave NW Suite B, Roanoke, Virginia, 24017</address>
+			</Placemark>
+			<Placemark>
+				<name>Commonwealth ChalleNGe</name>
+				<description><![CDATA[Shipping Address Line 1: C Street, Bldg 253<br>Shipping City: Virginia Beach<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23451<br>Phone: (757) 491-5932<br>Website: www.vachallenge.org<br>Person Accepting Volunteer Referrals: Myron James<br>Person Accepting Volunteer ReferralEmail: challengementor@yahoo.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>C Street, Bldg 253</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Virginia Beach</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23451</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(757) 491-5932</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vachallenge.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Myron James</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>challengementor@yahoo.com</value>
+					</Data>
+				</ExtendedData>
+				<address>C Street, Bldg 253, Virginia Beach, Virginia, 23451</address>
+			</Placemark>
+			<Placemark>
+				<name>Great Expectations</name>
+				<description><![CDATA[Shipping Address Line 1: 101 N. 14th Street<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23219<br>Phone: (804) 819-4950<br>Website: http://greatexpectations.vccs.edu/give/program-overview-history/<br>Person Accepting Volunteer Referrals: Allyson Roberts<br>Person Accepting Volunteer ReferralEmail: aroberts@vccs.edu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>101 N. 14th Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23219</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 819-4950</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://greatexpectations.vccs.edu/give/program-overview-history/</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Allyson Roberts</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>aroberts@vccs.edu</value>
+					</Data>
+				</ExtendedData>
+				<address>101 N. 14th Street, Richmond, Virginia, 23219</address>
+			</Placemark>
+			<Placemark>
+				<name>State Resource Mothers Program</name>
+				<description><![CDATA[Shipping Address Line 1: 109 Governor Street, 8th Fl.<br>Shipping City: Richmond<br>Shipping State/Province: Virginia<br>Shipping Zip/Postal Code: 23219<br>Phone: (804) 864-7673<br>Website: <br>Person Accepting Volunteer Referrals: <br>Person Accepting Volunteer ReferralEmail: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>109 Governor Street, 8th Fl.</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Richmond</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>Virginia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>23219</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(804) 864-7673</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value></value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>109 Governor Street, 8th Fl., Richmond, Virginia, 23219</address>
+			</Placemark>
+			<Placemark>
+				<name>BEST Kids</name>
+				<description><![CDATA[Shipping Address Line 1: 515 M St SE #215<br>Shipping City: Washington, DC<br>Shipping State/Province: <br>Shipping Zip/Postal Code: 20003<br>Phone: (202) 397-3272<br>Website: www.bestkids.org<br>Person Accepting Volunteer Referrals: Nicole Harrison<br>Person Accepting Volunteer ReferralEmail: nicole@bestkids.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>515 M St SE #215</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Washington, DC</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value></value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>20003</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(202) 397-3272</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bestkids.org</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Nicole Harrison</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>nicole@bestkids.org</value>
+					</Data>
+				</ExtendedData>
+				<address>515 M St SE #215, Washington, DC, , 20003</address>
+			</Placemark>
+			<Placemark>
+				<name>Mentoring Matters DC</name>
+				<description><![CDATA[Shipping Address Line 1: 1101 15th Street<br>Shipping City: Washington<br>Shipping State/Province: District of Columbia<br>Shipping Zip/Postal Code: 20005<br>Phone: (202) 488-2107<br>Website: http://www.unitedwaynca.org/pages/mentoring-matters-dc<br>Person Accepting Volunteer Referrals: Susannah Harris<br>Person Accepting Volunteer ReferralEmail: sharris@uwnca.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>1101 15th Street</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Washington</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>District of Columbia</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>20005</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(202) 488-2107</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.unitedwaynca.org/pages/mentoring-matters-dc</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Susannah Harris</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>sharris@uwnca.org</value>
+					</Data>
+				</ExtendedData>
+				<address>1101 15th Street, Washington, District of Columbia, 20005</address>
+			</Placemark>
+			<Placemark>
+				<name>StandUp For Kids - Washington D.C.</name>
+				<description><![CDATA[Shipping Address Line 1: P.O. Box 75983<br>Shipping City: Washington<br>Shipping State/Province: DC<br>Shipping Zip/Postal Code: 20013<br>Phone: (202) 681-4799<br>Website: http://www.standupforkids.org/WashingtonDC/default.aspx<br>Person Accepting Volunteer Referrals: Sharon Dennis<br>Person Accepting Volunteer ReferralEmail: sharond@standupforkids.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Shipping Address Line 1'>
+						<value>P.O. Box 75983</value>
+					</Data>
+					<Data name='Shipping City'>
+						<value>Washington</value>
+					</Data>
+					<Data name='Shipping State/Province'>
+						<value>DC</value>
+					</Data>
+					<Data name='Shipping Zip/Postal Code'>
+						<value>20013</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(202) 681-4799</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.standupforkids.org/WashingtonDC/default.aspx</value>
+					</Data>
+					<Data name='Person Accepting Volunteer Referrals'>
+						<value>Sharon Dennis</value>
+					</Data>
+					<Data name='Person Accepting Volunteer ReferralEmail'>
+						<value>sharond@standupforkids.org</value>
+					</Data>
+				</ExtendedData>
+				<address>P.O. Box 75983, Washington, DC, 20013</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

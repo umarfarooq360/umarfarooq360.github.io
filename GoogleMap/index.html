@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js">
+    </script>
+    
+  </head>
+  <body>
+	<div id="Title"><h1>Welcome to the Map page</h1> </div>
+	
+      <div id="filter"> 
+        
+        <label>Geographic Location:</label>
+        <select id="program-location">
+            <option value='Any'>Any</option>
+            <option value='Central Virginia'>Central-Virginia</option>
+            <option value='Washington D.C.'>Washington D.C.</option>    
+            <option value='Northern Virginia'>Northern Virginia</option>
+            <option value='Hampton Roads'>Hampton Roads</option>
+      </select>
+          
+           <label>Mentee Type: </label>
+          <select id="program-type">
+            <option value='Any'>Any</option>
+            <option value='Adjudicated/court involved'> Adjudicated/court involved </option>
+<option value='Foster Care'> Foster Care </option>
+<option value='Gang at-risk'> Gang at-risk </option>
+<option value='General Youth Population'> General Youth Population </option>
+<option value='GLBT Youth'> GLBT Youth </option>
+<option value='Incarcerated Parent'> Incarcerated Parent </option>
+<option value='Low Income'> Low Income </option>
+<option value='Youth with Disabilities'> Youth with Disabilities </option>
+
+      </select>
+          
+      
+      </div>
+      <br><br>
+      <div id="map-canvas" ></div>
+
+<!--      <iframe src="https://www.google.com/maps/d/u/1/embed?mid=zX0PXQCdHnzI.kK6DE05W6zXU" width="640" height="480"></iframe>-->
+      
+      <style type="text/css">
+      html, body, #map-canvas { width:960px; height:680px; margin:auto; }
+    </style>
+
+	<script src='https://code.jquery.com/jquery-2.1.4.min.js'></script>
+    <script src="js/papaparse.min.js"></script>
+    <script src="js/main.js" ></script>
+    <script src="js/map.js" ></script> 
+  </body>
+</html>
